@@ -1,4 +1,4 @@
-# Instructions for Coding Assistants
+# Instructions for Coding
 
 ## Project Overview
 
